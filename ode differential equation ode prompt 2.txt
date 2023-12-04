@@ -1,0 +1,25 @@
+nh3 molecule give an ode simultaneous eqaution differential eqaution on  based newtons motion cpnsidering mass
+
+give as mH(d^2v1/dt^2)=kHH(v1-v2)+kHH(v1-v3)+kNH(v1-v4) where v is a vector v(t) to find solution give in this form
+
+like this give for v1,v2,v3,v4 vector as simultaneous ode
+
+no like ths m 
+H
+​
+  
+dt 
+2
+ 
+d 
+2
+ v 
+1
+​
+ 
+give for mh*d^2v2,/dt^2,mh*d^2*v3/dt^2,mn*d^2*v4/dtz^2 give for v1,v2,v3 v4 vectors as simultaneous ode
+
+
+
+v1,v2,v3,v4 are vectors
+
